@@ -1,11 +1,7 @@
-#titulo {
-
-}
-
-.encabezado {
-    
-}
-
 #elemento-1{
     color: red
+}
+
+ul li#elemento-1 {
+    font-size: 2rem;
 }
