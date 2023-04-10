@@ -7,3 +7,30 @@ p {
     color:blue;
     font-size: 20pt;
 }
+
+#primer-noticia{
+    color: green;
+    font-size: 20pt;
+}
+
+/* selector id */
+#segunda-noticia{
+    color:darkviolet;
+    font-size: 20pt;
+}
+
+/*selector clase */
+.encabezado{
+    font-size: 24pt;
+    text-transform: uppercase;
+}
+
+
+/*Todos los elementos con clase warning */
+*.warning{
+    color: red;
+}
+
+.goleador, .fecha, .ubicacion, h1{
+    text-decoration: underline;
+}
